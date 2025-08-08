@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "ebc1",
+      "TITLE": "Fibres naturelles végétales : Tout savoir sur les fibres naturelles végétales",
+      "DESCRIPTION": "Comme leur nom l’indique, les fibres végétales naturelles sont issues d’éléments végétaux comme des graines, des tiges, des feuilles ou de l’écorce ?. On dit qu’elles sont naturelles puisqu’on les trouve dans la nature contrairement aux fibres animales ou aux fibres synthétiques et artificielles (qui sont créées par l’homme)",
+      "URL": "https://esiec.fr/wp-content/uploads/2024/10/la-place-des-fibres-naturelles-dans-lindustrie-du-packaging-focus-sur-la-ficelle-de-jute.jpg"
+    },
+    {
+      "id": "c5e9",
+      "TITLE": "Une passion pour les plus belles fibres naturelles et l’artisanat traditionnel",
+      "DESCRIPTION": "Ces fibres sont tissées et magnifiées sur des métiers à main par des artisans aux gestes sûrs et séculaires.",
+      "URL": "https://www.paris-deco-off.com/wp-content/uploads/2021/09/CMO_PAPYRUSMURAL_-1024x726.jpg"
+    },
+    {
+      "id": "53d2",
+      "TITLE": "Textiles en chanvre",
+      "DESCRIPTION": "Le chanvre a une longue histoire d'utilisation en tant que fibre textile. Il est extrêmement durable et peut résister à des usages répétés sans perdre son apparence ou sa qualité. Le tissu est doux au toucher et très respirant, ce qui le rend parfait pour la fabrication de vêtements pour toute saison. Il est également très résistant à l'humidité et aux tâches, ce qui signifie qu'il est facile à entretenir.",
+      "URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30OT_0BkEZhc6_z0b7GE6Qm0xmUyNAqIr8Q&s"
+    }
+  ]
+}
